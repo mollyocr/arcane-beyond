@@ -1,6 +1,6 @@
 # chatter
 
-FIXME
+Revisiting the the Clojurebridge Track1 coursework. This is a web app that will display posted messages.
 
 ## Prerequisites
 

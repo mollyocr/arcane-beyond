@@ -1,6 +1,6 @@
 (defproject chatter "0.1.0-SNAPSHOT"
   :description "Revisiting the the Clojurebridge Track1 coursework. This is a web app that will display posted messages."
-  :url "http://example.com/FIXME"
+  :url "https://arcane-beyond-94862.herokuapp.com/"
   :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [compojure "1.5.1"]
